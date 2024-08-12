@@ -1,10 +1,10 @@
 ### Default Configuration ###
 
 theme = "liva-hugo"
-baseURL = "http://localhost:1313/"
+baseURL = "https://blog.yukatayu.tech/"
 languageCode = "ja-jp"
 
-title = "静的ページのデプロイテスト"
+title = "Yukatayu's blog"
 
 summaryLength = "10"  # 最初の10単語をsummaryとする
 paginate = 6
@@ -95,9 +95,9 @@ googleAnalitycsID = "Your ID"
 ### Contact Information ###
 # mobile = "0124857985320"
 # email = "demo@email.com"
-location = "Dhaka, Bangladedsh"
+# location = "Dhaka, Bangladedsh"
 ### copyright ###
-copyright = "&copy; 2023 yukatayu"
+copyright = "&copy; 2024 yukatayu"
 
 ### Preloader ###
 [params.preloader]
