@@ -154,3 +154,8 @@ link = "https://www.nicovideo.jp/user/57110574/video"
 title = "GitHub"
 icon = "ti-github"
 link = "https://github.com/yukatayu/"
+
+[[params.social]]
+title = "RSS"
+icon = "ti-rss-alt"
+link = "https://blog.yukatayu.tech/index.xml"
