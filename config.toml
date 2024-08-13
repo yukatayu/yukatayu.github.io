@@ -4,7 +4,7 @@ theme = "liva-hugo"
 baseURL = "https://blog.yukatayu.tech/"
 languageCode = "ja-jp"
 
-title = "Yukatayu's blog"
+title = "もふもふ自由帳"
 
 summaryLength = "10"  # 最初の10単語をsummaryとする
 paginate = 10
