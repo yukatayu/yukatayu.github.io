@@ -6,7 +6,7 @@ categories: [ "blog" ]
 tags: [ "blog" ]
 image: "images/2024/VRChat_1920x1080_2020-09-01_00-53-09.408_resize.png"
 type: post
-summary: プログラム同士の通信を簡単に記述できる言語について考えてみます。
+summary: "プログラム同士の通信を簡単に記述できる言語について考えてみます。"
 ---
 
 ## 動機
