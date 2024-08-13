@@ -7,8 +7,8 @@ languageCode = "ja-jp"
 title = "Yukatayu's blog"
 
 summaryLength = "10"  # 最初の10単語をsummaryとする
-paginate = 6
-disqusShortname = ""
+paginate = 10
+disqusShortname = ""  # コメント機能を使わない限りは関係ない
 
 [outputs]
 home = ["HTML", "RSS", "JSON"]
@@ -51,36 +51,48 @@ URL = "plugins/search/search.js"
 [menu]
 
 ### main menu ###
-[[menu.main]]
-name = "About"
-URL = "about/"
-weight = 1
 
 [[menu.main]]
 name = "Works"
 URL = "works/"
+weight = 1
+
+[[menu.main]]
+name = "Blog"
+URL = "blog/"
 weight = 2
 
 [[menu.main]]
-name = "Links"
-URL = "links/"
+name = "About"
+URL = "about/"
 weight = 3
+
+# [[menu.main]]
+# name = "Links"
+# URL = "links/"
+# weight = 4
 
 ### footer menu ###
-[[menu.footer]]
-name = "About"
-URL = "about/"
-weight = 1
 
 [[menu.footer]]
 name = "Works"
 URL = "works/"
+weight = 1
+
+[[menu.main]]
+name = "Blog"
+URL = "blog/"
 weight = 2
 
 [[menu.footer]]
-name = "Links"
-URL = "links/"
+name = "About"
+URL = "about/"
 weight = 3
+
+# [[menu.footer]]
+# name = "Links"
+# URL = "links/"
+# weight = 4
 
 
 #################### default parameters ################################
@@ -88,16 +100,16 @@ weight = 3
 logo = "images/logo.png"
 home = "home"
 ### Meta data ###
-description = "これはサンプルページです"
+description = "ゆかたゆです。小さいころから数学とプログラミングが好きです。"
 author = "yukatayu"
 ### Google Analitycs ###
-googleAnalitycsID = "Your ID"
+# googleAnalitycsID = "Your ID"
 ### Contact Information ###
 # mobile = "0124857985320"
 # email = "demo@email.com"
 # location = "Dhaka, Bangladedsh"
 ### copyright ###
-copyright = "&copy; 2024 yukatayu"
+copyright = "&copy; yukatayu"
 
 ### Preloader ###
 [params.preloader]
@@ -112,7 +124,7 @@ enable = false
 [params.newsletter]
 enable = false
 title = "Join Our Newsletter"
-content = "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero"
+content = ""
 
 
 ### cookies ###
@@ -122,29 +134,23 @@ expire_days = 2
 
 
 ############################# social site ########################
-[[params.social]]
-title = "facebook"
-icon = "ti-facebook" # themify icon : https://themify.me/themify-icons
-link = "#"
 
 [[params.social]]
 title = "twitter"
-icon = "ti-twitter-alt" # themify icon : https://themify.me/themify-icons
-link = "#"
+icon = "ti-twitter-alt"
+link = "https://twitter.com/yukata_yu"
 
 [[params.social]]
-title = "instagram"
-icon = "ti-instagram" # themify icon : https://themify.me/themify-icons
-link = "#"
+title = "youtube"
+icon = "ti-youtube" 
+link = "https://www.youtube.com/@yukatayu"
 
 [[params.social]]
-title = "github"
-icon = "ti-github" # themify icon : https://themify.me/themify-icons
-link = "#"
+title = "niconico"
+icon = "ti-desktop"
+link = "https://www.nicovideo.jp/user/57110574/video"
 
 [[params.social]]
-title = "linkedin"
-icon = "ti-linkedin" # themify icon : https://themify.me/themify-icons
-link = "#"
-
-
+title = "GitHub"
+icon = "ti-github"
+link = "https://github.com/yukatayu/"
