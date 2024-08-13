@@ -100,7 +100,7 @@ weight = 3
 logo = "images/logo.png"
 home = "home"
 ### Meta data ###
-description = "ゆかたゆです。小さいころから数学とプログラミングが好きです。"
+description = "ゆかたゆのブログです。"
 author = "yukatayu"
 ### Google Analitycs ###
 # googleAnalitycsID = "Your ID"
