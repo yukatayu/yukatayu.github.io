@@ -2,8 +2,8 @@
 title: "同期に特化した言語を考えてみる（３）"
 date: 2024-08-14T14:10:05+09:00
 draft: true
-categories: [ "blog" ]
-tags: [ "blog" ]
+categories: [ "技術" ]
+tags: [ "言語", "同期" ]
 image: "images/2024/VRChat_2023-08-14_13-47-05.417_3840x2160_resize.png"
 type: post
 summary: "ネットワークシステムを記述する言語の，同期処理について考えてみます。"

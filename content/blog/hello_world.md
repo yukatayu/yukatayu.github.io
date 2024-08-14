@@ -2,8 +2,8 @@
 title: "初めまして"
 date: 2024-08-13T10:46:00+09:00
 draft: false
-categories: [ "blog" ]
-tags: [ "blog" ]
+categories: [ "日記" ]
+tags: [ "挨拶" ]
 image: "images/2024/VRChat_2023-05-01_22-46-23.259_resize.png"
 type: post
 summary: "ブログを始めました"

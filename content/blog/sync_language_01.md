@@ -1,9 +1,9 @@
 ---
 title: "同期に特化した言語を考えてみる（１）"
-date: 2024-08-14T14:07:05+09:00
+date: 2024-08-14T17:23:06+09:00
 draft: false
-categories: [ "blog" ]
-tags: [ "blog" ]
+categories: [ "技術" ]
+tags: [ "言語", "同期" ]
 image: "images/2024/VRChat_2023-08-14_13-15-18.482_1920x1080_resize.png"
 type: post
 summary: "プログラム同士の通信を簡単に記述できる言語について考えてみます。"
