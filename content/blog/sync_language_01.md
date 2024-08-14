@@ -1,7 +1,7 @@
 ---
 title: "同期に特化した言語を考えてみる（１）"
 date: 2024-08-14T14:07:05+09:00
-draft: true
+draft: false
 categories: [ "blog" ]
 tags: [ "blog" ]
 image: "images/2024/VRChat_2023-08-14_13-15-18.482_1920x1080_resize.png"
