@@ -13,6 +13,11 @@ disqusShortname = ""  # コメント機能を使わない限りは関係ない
 pygmentsUseClasses = true
 pygmentsCodefences = true
 
+[markup]
+	[markup.goldmark]
+		[markup.goldmark.renderer]
+			unsafe = true
+
 [outputs]
 home = ["HTML", "RSS", "JSON"]
 
