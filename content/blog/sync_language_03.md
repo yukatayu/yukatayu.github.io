@@ -1,6 +1,6 @@
 ---
 title: "同期に特化した言語を考えてみる（３）"
-date: 2024-08-14T14:07:05+09:00
+date: 2024-08-14T14:10:05+09:00
 draft: true
 categories: [ "blog" ]
 tags: [ "blog" ]

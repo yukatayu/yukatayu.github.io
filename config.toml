@@ -10,6 +10,9 @@ summaryLength = "10"  # 最初の10単語をsummaryとする
 paginate = 10
 disqusShortname = ""  # コメント機能を使わない限りは関係ない
 
+pygmentsUseClasses = true
+pygmentsCodefences = true
+
 [outputs]
 home = ["HTML", "RSS", "JSON"]
 
