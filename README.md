@@ -14,6 +14,7 @@ categories: [ "hugo" ]
 tags: [ "hello", "world" ]
 image: images/promotion.png
 type: post
+summary: "tl;dr"
 ```
 
 - `type: post` の物は，トップページの一覧の部分に表示される
@@ -29,3 +30,5 @@ GitHubのリポジトリ設定で， Actions > General > Workflow permissions �
 ```shell
 hugo serve --disableFastRender
 ```
+
+`date:` に入れる時間は， [これ](https://yukatayu.tech/time.html) で取得すると早い
