@@ -72,6 +72,7 @@
       {{- with $authorEmail }}<author>{{ . }}{{ with $authorName }} ({{ . }}){{ end }}</author>{{ end }}
       <guid>{{ .Permalink }}</guid>
       <description>{{ .Summary | html }}</description>
+      <enclosure url="{{$.Site.BaseURL}}{{ .Params.image | html }}" length="0" type="false"/>
       <media:title>{{ .Title | html }}</media:title>
       <media:thumbnail url="{{$.Site.BaseURL}}{{ .Params.image | html }}" />
     </item>
