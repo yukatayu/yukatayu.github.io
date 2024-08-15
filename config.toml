@@ -87,7 +87,7 @@ name = "Works"
 URL = "works/"
 weight = 1
 
-[[menu.main]]
+[[menu.footer]]
 name = "Blog"
 URL = "blog/"
 weight = 2
@@ -111,11 +111,11 @@ home = "home"
 description = "ゆかたゆのブログです。"
 author = "yukatayu"
 ### Google Analitycs ###
-# googleAnalitycsID = "Your ID"
+# googleAnalitycsID = ""
 ### Contact Information ###
-# mobile = "0124857985320"
+# mobile = ""
 email = "blog@yukatayu.tech"
-# location = "Dhaka, Bangladedsh"
+# location = "Tokyo"
 ### copyright ###
 copyright = "&copy; yukatayu"
 
