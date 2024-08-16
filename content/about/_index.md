@@ -23,7 +23,7 @@ summary: "ゆかたゆです。小さいころから数学とプログラミン�
 VRやお絵かき，動画編集などのメディア系も好きです。
 
 歪んだ空間が好きなので，変わったパズルゲームでよく遊びます。  
-お勧めは Superliminal と Induction なのです。
+お勧めは [Superliminal](https://store.steampowered.com/app/1049410/Superliminal/?l=japanese) と [Induction](https://store.steampowered.com/app/381890/Induction/?l=japanese) なのです。
 
 ---
 

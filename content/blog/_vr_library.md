@@ -5,7 +5,7 @@ draft: true
 categories: [ "技術" ]
 tags: [ "表現", "同期", "VR" ]
 image: "images/2024/"
-type: post
+type: featured
 summary: "知の迷宮を表現する方法についての探求です。"
 ---
 

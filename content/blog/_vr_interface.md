@@ -5,7 +5,7 @@ draft: true
 categories: [ "技術" ]
 tags: [ "表現", "VR" ]
 image: "images/2024/"
-type: post
+type: featured
 summary: "VRの世界に影響して，世界からの知らせを受け取ること。"
 ---
 
