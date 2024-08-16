@@ -3,6 +3,7 @@
 theme = "liva-hugo"
 baseURL = "https://blog.yukatayu.tech/"
 languageCode = "ja-jp"
+locale="ja-jp"
 
 title = "もふもふ自由帳"
 
