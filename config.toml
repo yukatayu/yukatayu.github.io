@@ -27,6 +27,14 @@ home = ["HTML", "RSS", "JSON"]
 tag = "tags"
 category = "categories"
 
+[minify]
+  disableCSS = false
+  disableHTML = false
+  disableJS = false
+  disableJSON = false
+  disableSVG = false
+  disableXML = true
+
 ############################# Plugins ##############################
 [params.plugins]
 
