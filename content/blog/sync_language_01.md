@@ -5,7 +5,7 @@ draft: false
 categories: [ "技術" ]
 tags: [ "言語", "同期" ]
 image: "images/2024/VRChat_2023-08-14_13-15-18.482_1920x1080_resize.png"
-type: post
+type: featured
 summary: "プログラム同士の通信を簡単に記述できる言語について考えてみます。"
 ---
 
