@@ -4,7 +4,7 @@ date: 2024-08-14T14:09:05+09:00
 draft: true
 categories: [ "日記" ]
 tags: [ "生活" ]
-image: "images/2024/"
+image: "images/2024/VRChat_2022-08-22_16-27-34.541_3840x2160_resize.png"
 type: post
 summary: "お金の話をちょっぴり。"
 ---
