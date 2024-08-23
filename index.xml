@@ -13,8 +13,18 @@
     </image>
     <generator>Hugo</generator>
     <language>ja-jp</language>
-    <lastBuildDate>Thu, 15 Aug 2024 12:36:19 +0900</lastBuildDate>
+    <lastBuildDate>Fri, 23 Aug 2024 17:25:56 +0900</lastBuildDate>
     <atom:link href="https://blog.yukatayu.tech/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>世界に触れる</title>
+      <link>https://blog.yukatayu.tech/blog/vr_interface/</link>
+      <pubDate>Fri, 23 Aug 2024 17:25:56 +0900</pubDate>
+      <guid>https://blog.yukatayu.tech/blog/vr_interface/</guid>
+      <description><![CDATA[<img src="https://blog.yukatayu.tech/images/2024/VRChat_2022-08-22_16-24-32.295_3840x2160_resize.png" /><p>仮想の世界に影響して，世界からの知らせを受け取ること。</p> ]]></description>
+      <enclosure url="https://blog.yukatayu.tech/images/2024/VRChat_2022-08-22_16-24-32.295_3840x2160_resize.png" length="" type="false"/>
+      <media:title>世界に触れる</media:title>
+      <media:thumbnail url="https://blog.yukatayu.tech/images/2024/VRChat_2022-08-22_16-24-32.295_3840x2160_resize.png" />
+    </item>
     <item>
       <title>願い</title>
       <link>https://blog.yukatayu.tech/blog/wish_for_technology/</link>
