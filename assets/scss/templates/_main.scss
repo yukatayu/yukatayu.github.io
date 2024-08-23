@@ -343,6 +343,10 @@
     }
   }
 
+  mjx-container[jax="CHTML"] * {
+      margin-bottom: 0;
+  }
+
 }
 
 footer a {

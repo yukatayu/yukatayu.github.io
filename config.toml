@@ -17,9 +17,16 @@ pygmentsCodefences = true
 enableRobotsTXT = false
 
 [markup]
+  defaultMarkdownHandler = "goldmark"
 	[markup.goldmark]
 		[markup.goldmark.renderer]
 			unsafe = true
+    [markup.goldmark.extensions]
+      [markup.goldmark.extensions.passthrough]
+        enable = true
+        [markup.goldmark.extensions.passthrough.delimiters]
+          block = [['\[', '\]'], ['$$', '$$']]
+
 
 [outputs]
 home = ["HTML", "RSS", "JSON"]
