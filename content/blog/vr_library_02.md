@@ -4,7 +4,7 @@ date: 2024-08-21T14:48:49+09:00
 draft: true
 categories: [ "技術" ]
 tags: [ "表現", "同期", "VR" ]
-image: "images/2024/"
+image: "images/2024/VRChat_2022-08-29_11-49-40.504_3840x2160_resize.png"
 type: post
 summary: "地続きの世界を担うサーバを設計します。"
 ---

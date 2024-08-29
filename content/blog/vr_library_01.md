@@ -1,10 +1,10 @@
 ---
 title: "図書館を裏返す"
 date: 2024-08-21T16:01:57+09:00
-draft: true
+draft: false
 categories: [ "日記" ]
 tags: [ "表現", "願い" ]
-image: "images/2024/"
+image: "images/2024/VRChat_2022-08-29_11-44-37.584_3840x2160_resize.png"
 type: post
 summary: "知の迷宮を表現する方法についての探求です。"
 ---
