@@ -13,8 +13,18 @@
     </image>
     <generator>Hugo</generator>
     <language>ja-jp</language>
-    <lastBuildDate>Thu, 15 Aug 2024 12:36:19 +0900</lastBuildDate>
+    <lastBuildDate>Wed, 21 Aug 2024 16:01:57 +0900</lastBuildDate>
     <atom:link href="https://blog.yukatayu.tech/categories/%E6%97%A5%E8%A8%98/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>図書館を裏返す</title>
+      <link>https://blog.yukatayu.tech/blog/vr_library_01/</link>
+      <pubDate>Wed, 21 Aug 2024 16:01:57 +0900</pubDate>
+      <guid>https://blog.yukatayu.tech/blog/vr_library_01/</guid>
+      <description><![CDATA[<img src="https://blog.yukatayu.tech/images/2024/VRChat_2022-08-29_11-44-37.584_3840x2160_resize.png" /><p>知の迷宮を表現する方法についての探求です。</p> ]]></description>
+      <enclosure url="https://blog.yukatayu.tech/images/2024/VRChat_2022-08-29_11-44-37.584_3840x2160_resize.png" length="" type="false"/>
+      <media:title>図書館を裏返す</media:title>
+      <media:thumbnail url="https://blog.yukatayu.tech/images/2024/VRChat_2022-08-29_11-44-37.584_3840x2160_resize.png" />
+    </item>
     <item>
       <title>願い</title>
       <link>https://blog.yukatayu.tech/blog/wish_for_technology/</link>
