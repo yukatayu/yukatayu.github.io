@@ -4,7 +4,7 @@ date: 2024-08-27T12:58:00+09:00
 draft: true
 categories: [ "日記" ]
 tags: [ "生活" ]
-image: "images/2024/VRChat_2022-08-22_16-27-34.541_3840x2160_resize.png"
+image: "images/2024/"
 type: post
 summary: "一人暮らしのチュートリアル。"
 ---
