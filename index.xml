@@ -13,8 +13,18 @@
     </image>
     <generator>Hugo</generator>
     <language>ja-jp</language>
-    <lastBuildDate>Mon, 02 Sep 2024 14:22:19 +0900</lastBuildDate>
+    <lastBuildDate>Tue, 03 Sep 2024 10:39:00 +0900</lastBuildDate>
     <atom:link href="https://blog.yukatayu.tech/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>同期に特化した言語を考えてみる（２）</title>
+      <link>https://blog.yukatayu.tech/blog/sync_language_02/</link>
+      <pubDate>Tue, 03 Sep 2024 10:39:00 +0900</pubDate>
+      <guid>https://blog.yukatayu.tech/blog/sync_language_02/</guid>
+      <description><![CDATA[<img src="https://blog.yukatayu.tech/images/2024/VRChat_2023-08-14_13-46-45.608_3840x2160_resize.png" /><p>ネットワークシステムを拡張する際の事を考えてみます。</p> ]]></description>
+      <enclosure url="https://blog.yukatayu.tech/images/2024/VRChat_2023-08-14_13-46-45.608_3840x2160_resize.png" length="" type="false"/>
+      <media:title>同期に特化した言語を考えてみる（２）</media:title>
+      <media:thumbnail url="https://blog.yukatayu.tech/images/2024/VRChat_2023-08-14_13-46-45.608_3840x2160_resize.png" />
+    </item>
     <item>
       <title>この世界にいるアバター</title>
       <link>https://blog.yukatayu.tech/blog/nowhere_in_the_world/</link>
