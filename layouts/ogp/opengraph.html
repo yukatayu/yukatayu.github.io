@@ -35,7 +35,9 @@
   <meta property="og:type" content="website">
 {{- end }}
 
-<meta property="og:image" content="{{$.Site.BaseURL}}{{ .Params.image | html }}">
+{{- with or .Params.image "images/promotion.png" | html }}
+<meta property="og:image" content="{{$.Site.BaseURL}}{{ . }}">
+{{- end }}
 
 {{- with .Params.audio }}
   {{- range . | first 6  }}
