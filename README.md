@@ -28,7 +28,7 @@ GitHubのリポジトリ設定で， Actions > General > Workflow permissions �
 
 ローカルでの動作確認は
 ```shell
-hugo serve --disableFastRender
+hugo serve --disableFastRender --buildDrafts
 ```
 
 `date:` に入れる時間は， [これ](https://yukatayu.tech/time.html) で取得すると早い
