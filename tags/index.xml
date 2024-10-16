@@ -13,22 +13,12 @@
     </image>
     <generator>Hugo</generator>
     <language>ja-jp</language>
-    <lastBuildDate>Tue, 03 Sep 2024 10:39:00 +0900</lastBuildDate>
+    <lastBuildDate>Wed, 16 Oct 2024 12:27:19 +0900</lastBuildDate>
     <atom:link href="https://blog.yukatayu.tech/tags/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>同期</title>
-      <link>https://blog.yukatayu.tech/tags/%E5%90%8C%E6%9C%9F/</link>
-      <pubDate>Tue, 03 Sep 2024 10:39:00 +0900</pubDate>
-      <guid>https://blog.yukatayu.tech/tags/%E5%90%8C%E6%9C%9F/</guid>
-      <description><![CDATA[<img src="https://blog.yukatayu.tech/" /><p></p> ]]></description>
-      <enclosure url="https://blog.yukatayu.tech/" length="" type="false"/>
-      <media:title>同期</media:title>
-      <media:thumbnail url="https://blog.yukatayu.tech/" />
-    </item>
     <item>
       <title>言語</title>
       <link>https://blog.yukatayu.tech/tags/%E8%A8%80%E8%AA%9E/</link>
-      <pubDate>Tue, 03 Sep 2024 10:39:00 +0900</pubDate>
+      <pubDate>Wed, 16 Oct 2024 12:27:19 +0900</pubDate>
       <guid>https://blog.yukatayu.tech/tags/%E8%A8%80%E8%AA%9E/</guid>
       <description><![CDATA[<img src="https://blog.yukatayu.tech/" /><p></p> ]]></description>
       <enclosure url="https://blog.yukatayu.tech/" length="" type="false"/>
@@ -38,11 +28,21 @@
     <item>
       <title>願い</title>
       <link>https://blog.yukatayu.tech/tags/%E9%A1%98%E3%81%84/</link>
-      <pubDate>Mon, 02 Sep 2024 14:22:19 +0900</pubDate>
+      <pubDate>Wed, 16 Oct 2024 12:27:19 +0900</pubDate>
       <guid>https://blog.yukatayu.tech/tags/%E9%A1%98%E3%81%84/</guid>
       <description><![CDATA[<img src="https://blog.yukatayu.tech/" /><p></p> ]]></description>
       <enclosure url="https://blog.yukatayu.tech/" length="" type="false"/>
       <media:title>願い</media:title>
+      <media:thumbnail url="https://blog.yukatayu.tech/" />
+    </item>
+    <item>
+      <title>同期</title>
+      <link>https://blog.yukatayu.tech/tags/%E5%90%8C%E6%9C%9F/</link>
+      <pubDate>Tue, 03 Sep 2024 10:39:00 +0900</pubDate>
+      <guid>https://blog.yukatayu.tech/tags/%E5%90%8C%E6%9C%9F/</guid>
+      <description><![CDATA[<img src="https://blog.yukatayu.tech/" /><p></p> ]]></description>
+      <enclosure url="https://blog.yukatayu.tech/" length="" type="false"/>
+      <media:title>同期</media:title>
       <media:thumbnail url="https://blog.yukatayu.tech/" />
     </item>
     <item>
