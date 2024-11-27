@@ -13,8 +13,18 @@
     </image>
     <generator>Hugo</generator>
     <language>ja-jp</language>
-    <lastBuildDate>Mon, 25 Nov 2024 16:00:25 +0900</lastBuildDate>
+    <lastBuildDate>Wed, 27 Nov 2024 17:44:54 +0900</lastBuildDate>
     <atom:link href="https://blog.yukatayu.tech/tags/%E9%A1%98%E3%81%84/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>空白の縁に立つ</title>
+      <link>https://blog.yukatayu.tech/blog/multiple_foundation/</link>
+      <pubDate>Wed, 27 Nov 2024 17:44:54 +0900</pubDate>
+      <guid>https://blog.yukatayu.tech/blog/multiple_foundation/</guid>
+      <description><![CDATA[<img src="https://blog.yukatayu.tech/images/2024/VRChat_2022-08-29_11-55-22.924_3840x2160_resize.png" /><p>計算機の上に在ってほしい地盤について考えます。</p> ]]></description>
+      <enclosure url="https://blog.yukatayu.tech/images/2024/VRChat_2022-08-29_11-55-22.924_3840x2160_resize.png" length="" type="false"/>
+      <media:title>空白の縁に立つ</media:title>
+      <media:thumbnail url="https://blog.yukatayu.tech/images/2024/VRChat_2022-08-29_11-55-22.924_3840x2160_resize.png" />
+    </item>
     <item>
       <title>下糸の不在</title>
       <link>https://blog.yukatayu.tech/blog/no_code/</link>
