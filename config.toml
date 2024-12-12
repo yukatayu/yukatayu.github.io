@@ -129,7 +129,7 @@ home = "home"
 description = "ゆかたゆのブログです。"
 author = "yukatayu"
 ### Google Analitycs ###
-# googleAnalitycsID = ""
+googleAnalitycsID = "G-W6LQCKQ185"
 ### Contact Information ###
 # mobile = ""
 email = "blog@yukatayu.tech"
