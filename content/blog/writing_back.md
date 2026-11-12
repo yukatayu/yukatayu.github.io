@@ -1,7 +1,7 @@
 ---
 title: "雲に抱き留められて"
 date: 2025-01-27T12:53:05+09:00
-draft: false
+draft: true
 categories: [ "日記" ]
 tags: [ "願い" ]
 image: "images/2024/VRChat_2022-11-25_11-08-34.295_3840x2160_resize.png"
